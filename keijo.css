@@ -1,6 +1,11 @@
 body {
   background: #eeeeee;
-  font-family: “Trebuchet MS”, Verdana, Arial, serif;
+  font-family: 'Slabo 27px', serif;
+  text-align: center;
+}
+
+h1 {
+	font-size: 72pt;
 }
 
 .footer {
