@@ -6,9 +6,25 @@ body {
 }
 
 h1 {
-	font-size: 7rem;
-	color: #FF9933;
+  font-size: 2em;
+  line-height: 1.25;
+  color: #FF9933;
 }
+
+@media (min-width: 43.75em) {
+  h1 {
+    font-size: 5em;
+    line-height: 1.125;
+    color: #FF9933;
+  }
+}
+
+@media (min-width: 56.25em) {
+  h1 {
+    font-size: 7em;
+    line-height: 1.05;
+    color: #FF9933;
+  }
 
 .footer {
 	background: #FF9933;
