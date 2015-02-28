@@ -1,17 +1,14 @@
 body {
-  background: #eeeeee;
+  background: #1C2840;
   font-family: 'Slabo 27px', serif;
   text-align: center;
 }
 
 h1 {
 	font-size: 72pt;
+	color: #FF9933;
 }
 
 .footer {
-	background: #c0c0c0;
-}
-
-#jukkis {
-	background: #f0f0f0;
+	background: #FF9933;
 }
