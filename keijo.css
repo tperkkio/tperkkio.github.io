@@ -1,11 +1,12 @@
 body {
   background: #1C2840;
   font-family: 'Slabo 27px', serif;
+  font-size: 1rem;
   text-align: center;
 }
 
 h1 {
-	font-size: 72pt;
+	font-size: 7rem;
 	color: #FF9933;
 }
 
