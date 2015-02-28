@@ -1,31 +1,30 @@
 body {
-  background: #1C2840;
-  font-family: 'Slabo 27px', serif;
-  font-size: 1rem;
+  background: #FFFFE0;
+  font-size: 14px;
   text-align: center;
 }
 
 h1 {
-  font-size: 5em;
-  line-height: 1.25;
-  color: #FF9933;
+	font-size: 7rem;
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+	color: #47D1FF;
 }
 
-@media (min-width: 43.75em) {
-  h1 {
-    font-size: 5em;
-    line-height: 1.125;
-    color: #FF9933;
-  }
+.thinh1 {
+	font-weight: 100;
 }
 
-@media (min-width: 56.25em) {
-  h1 {
-    font-size: 7em;
-    line-height: 1.05;
-    color: #FF9933;
-  }
+.content {
+	margin: 0 auto;
+	left: 50%;
+	width: 600px;
+	text-align: left;
+	border-top: 1px solid #47D1FF;
+}
 
-.footer {
-	background: #FF9933;
+h2 {
+	font-size: 2rem;
+	font-family: 'Arvo', serif;
+	color: #383838;
 }
